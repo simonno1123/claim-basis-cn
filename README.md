@@ -18,7 +18,7 @@
 skills/claim-basis/
   SKILL.md                         方法总纲与工作流
   references/
-    01-search-order.md             检索顺序（合同、类合同、无因管理、物权、侵权、不当得利）
+    01-search-order.md             检索顺序（合同、类合同、无因管理、绝对权、侵权损害赔偿、不当得利、特别法出口）
     02-three-stage-examination.md  三段式检验（已产生、未消灭、可行使）
     03-subsumption-and-burden.md   涵摄与举证责任
     04-concurrence-and-relations.md 竞合与请求权关系
