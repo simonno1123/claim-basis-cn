@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "claim-basis-cn",
+  "description": "请求权基础分析方法（中国民商事诉讼与执行）。",
+  "owner": {
+    "name": "张纯熙"
+  },
+  "plugins": [
+    {
+      "name": "claim-basis-cn",
+      "displayName": "请求权基础分析方法",
+      "source": "./",
+      "description": "中国民商事请求权基础分析方法；只含方法，法条与案例由数据库连接器提供。",
+      "version": "0.1.0"
+    }
+  ]
+}
