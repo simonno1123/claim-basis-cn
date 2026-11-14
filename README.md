@@ -23,7 +23,7 @@ skills/claim-basis/
     03-subsumption-and-burden.md   涵摄与举证责任
     04-concurrence-and-relations.md 竞合与请求权关系
     05-enforcement.md              执行程序中的运用
-    06-data-interface.md           接口要求（调用方的输入、对数据层的请求）
+    06-data-interface.md           接口要求（调用方的输入；数据层的请求、核验状态与引用写法）
     07-output-format.md            输出格式（供引用方按部分取用；最终输出以此为准）
 tests/regression-cases.md          虚构回归案例与运行方式
 ```
